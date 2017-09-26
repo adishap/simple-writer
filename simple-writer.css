@@ -1,4 +1,6 @@
 /* comment */
 @import './lib/comment/_comment.css';
+/* highlight */
+@import './lib/highlight/_highlight.css';
 /* simple-writer*/
 @import './lib/simple-writer/_simple-writer.css';
