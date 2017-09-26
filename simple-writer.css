@@ -4,3 +4,6 @@
 @import './lib/highlight/_highlight.css';
 /* simple-writer*/
 @import './lib/simple-writer/_simple-writer.css';
+/* fancy-paragraph*/
+@import '../lib/fancy-paragraph/_fancy-paragraph.css';
+

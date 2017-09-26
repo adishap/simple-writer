@@ -11,6 +11,8 @@
 @import '../lib/comment/_comment.css';
 /* simple-writer*/
 @import '../lib/simple-writer/_simple-writer.css';
+/* fancy-paragraph*/
+@import '../lib/fancy-paragraph/_fancy-paragraph.css';
 /* highlight */
 @import '../lib/highlight/_highlight.css';
 
